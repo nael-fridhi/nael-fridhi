@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/nael%20fridhi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/naelfridhi/)](https://www.linkedin.com/in/naelfridhi/)
 
-- 🔭 I’m currently working at [@aws](https://github.com/aws) as Cloud Architect on Global Financial Service ProServe team.
+- 🔭 I’m currently working at [@aws](https://github.com/aws) as Cloud Architect with Global Financial Service ProServe team.
 
 <br>
 <p align="center">
