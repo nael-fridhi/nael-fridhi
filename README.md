@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nael-fridhi/nael-fridhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Alex 👋 
+### Hi there, I'm Nael 👋 
 
 [![Linkedin Badge](https://img.shields.io/badge/nael%20fridhi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/naelfridhi/)](https://www.linkedin.com/in/naelfridhi/)
 
