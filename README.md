@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Nael 👋 
-
-[![Linkedin Badge](https://img.shields.io/badge/nael%20fridhi-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0A66C2&link=https://www.linkedin.com/in/naelfridhi/)](https://www.linkedin.com/in/naelfridhi/)
-
-- 🔭 I’m currently working at [@aws](https://github.com/aws) as Cloud Architect with Global Financial Service ProServe team.
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nael-fridhi&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=dracula&include_all_commits=true">
-</p>
+## 👋 Hi, I'm Naël
+ 
+I like taking an idea from a blank page to something people actually use, and then explaining how it works so anyone can follow along.
+ 
+- 🔭 **Currently** helping customers automate and transform their business by building **AI agents and Workflows** on **[Google Cloud](https://cloud.google.com)**.
+- ✍️ **Creator at [nftech.dev](https://nftech.dev)** — AI, new tools and business concepts explained in plain language, through articles, images and videos.
+- 🌱 **Exploring** multi-agent systems, Agentic development and automations.
+- 💬 **Ask me about** Automation, AI agents, Gemini, Claude, cloud architecture, and the business side of tech.
+- 🤝 **Open to** talks, collaborations, and ideas.
+- 📫 **Reach me** on [LinkedIn](https://www.linkedin.com/in/naelfridhi/) 
